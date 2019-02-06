@@ -1,0 +1,57 @@
+body {
+	/*background: #160cd1; */
+	color:red;  
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Caveat', cursive;
+	color: #ff0000;
+	width:900;
+}
+
+h1{
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background: #42f4f1;
+	font-family: 'Luckiest Guy', cursive;
+	color: yellow;
+	font-size:60pt;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	width: 100%;
+	border-radius: 30px 72px 130px 131px;
+	
+}
+
+#stayPut {
+	position: fixed;
+	width:100%;
+
+
+}
+
+.pics { 
+	text-align: center;
+	width:100%;
+ }
+
+p {
+	margin-top: 40px;
+	text-align: center;
+	font-size:60px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+
+}
+
+ul {
+	margin-left: 35%;
+	margin-right:25%;
+	font-size:50px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	margin-top:0;
+	background-color: rgba(201, 76, 76, 0.3);
+	border-radius: 15px 50px 30px 5px;
+}
